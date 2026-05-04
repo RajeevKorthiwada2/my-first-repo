@@ -1,4 +1,4 @@
-# My First Git Project
+# My First Git Project — Learning Git with Rajeev
 My first Git-tracked project.
 ## What I'm learning
 - Git fundamentals
